@@ -1,4 +1,4 @@
-ChatGPT
+
 Simple Notes App
 
 This is a minimalistic notes app that allows you to quickly jot down and save notes. You can add, delete, and save notes, and your notes will be stored locally in your browser.
